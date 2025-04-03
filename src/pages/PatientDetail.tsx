@@ -24,7 +24,7 @@ import {
   Droplets, 
   Heart, 
   LineChart, 
-  Lungs, 
+  Wind, // Replaced Lungs with Wind icon which is similar
   Thermometer, 
   User 
 } from "lucide-react";
